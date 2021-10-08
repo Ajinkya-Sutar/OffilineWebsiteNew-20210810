@@ -1,0 +1,32 @@
+2021-09-27 09:07:03,220  INFO [main] LogsForPage:43 - ChromeDriver: chrome on WINDOWS (87890dede67a570a883e226a4fe4a126)verifyHeading LoginPage new logs
+2021-09-27 09:07:03,230  INFO [main] LogsForPage:32 - ChromeDriver: chrome on WINDOWS (87890dede67a570a883e226a4fe4a126)verifyHeading LoginPage new logs
+2021-09-27 09:07:03,288  INFO [main] LogsForPage:37 - Heading matched
+2021-09-27 09:07:03,288  INFO [main] LogsForPage:50 - please do it
+2021-09-27 09:07:36,957  INFO [main] LogsForPage:43 - ChromeDriver: chrome on WINDOWS (739678410701f0781adba8f96359f007)verifyHeading LoginPage new logs
+2021-09-27 09:07:36,962  INFO [main] LogsForPage:32 - ChromeDriver: chrome on WINDOWS (739678410701f0781adba8f96359f007)verifyHeading LoginPage new logs
+2021-09-27 09:07:37,010  INFO [main] LogsForPage:37 - Heading matched
+2021-09-27 09:07:37,010  INFO [main] LogsForPage:50 - please do it
+2021-09-28 08:55:19,149  INFO [main] LogsForPage:43 - ChromeDriver: chrome on WINDOWS (b6a4aa1ed5109ea840e32e29a50f0d64)verifyHeading LoginPage new logs
+2021-09-28 08:55:19,166  INFO [main] LogsForPage:32 - ChromeDriver: chrome on WINDOWS (b6a4aa1ed5109ea840e32e29a50f0d64)verifyHeading LoginPage new logs
+2021-09-28 08:55:19,279  INFO [main] LogsForPage:37 - Heading matched
+2021-09-28 08:55:19,292  INFO [main] LogsForPage:50 - please do it
+2021-09-28 08:56:10,364  INFO [main] LogsForPage:43 - ChromeDriver: chrome on WINDOWS (cf6e7bf640f4ebaa4a9e62aa67e7bf1e)verifyHeading LoginPage new logs
+2021-09-28 08:56:10,382  INFO [main] LogsForPage:32 - ChromeDriver: chrome on WINDOWS (cf6e7bf640f4ebaa4a9e62aa67e7bf1e)verifyHeading LoginPage new logs
+2021-09-28 08:56:10,427  INFO [main] LogsForPage:37 - Heading matched
+2021-09-28 08:56:10,435  INFO [main] LogsForPage:50 - please do it
+2021-09-28 08:57:11,697  INFO [main] LogsForPage:43 - ChromeDriver: chrome on WINDOWS (7bf70fdff63d5d756049c58e4896d111)verifyHeading LoginPage new logs
+2021-09-28 08:57:11,704  INFO [main] LogsForPage:32 - ChromeDriver: chrome on WINDOWS (7bf70fdff63d5d756049c58e4896d111)verifyHeading LoginPage new logs
+2021-09-28 08:57:11,766  INFO [main] LogsForPage:37 - Heading matched
+2021-09-28 08:57:11,776  INFO [main] LogsForPage:50 - please do it
+2021-09-28 08:58:33,764  INFO [main] LogsForPage:43 - ChromeDriver: chrome on WINDOWS (839c1ce601e6d130f1731f9ba165a86b)verifyHeading LoginPage new logs
+2021-09-28 08:58:33,767  INFO [main] LogsForPage:32 - ChromeDriver: chrome on WINDOWS (839c1ce601e6d130f1731f9ba165a86b)verifyHeading LoginPage new logs
+2021-09-28 08:58:33,817  INFO [main] LogsForPage:37 - Heading matched
+2021-09-28 08:58:33,828  INFO [main] LogsForPage:50 - please do it
+2021-10-08 14:27:40,236  INFO [main] LogsForPage:43 - ChromeDriver: chrome on WINDOWS (a76171cef4d8876a7fb22ef858ba5d61)verifyHeading LoginPage new logs
+2021-10-08 14:27:40,255  INFO [main] LogsForPage:32 - ChromeDriver: chrome on WINDOWS (a76171cef4d8876a7fb22ef858ba5d61)verifyHeading LoginPage new logs
+2021-10-08 14:27:40,311  INFO [main] LogsForPage:37 - Heading matched
+2021-10-08 14:27:40,321  INFO [main] LogsForPage:50 - please do it
+2021-10-08 14:42:20,295  INFO [main] LogsForPage:47 - ChromeDriver: chrome on WINDOWS (ee129f7b67e42636f74f565f8352155d)verifyHeading LoginPage new logs
+2021-10-08 14:42:20,298  INFO [main] LogsForPage:32 - ChromeDriver: chrome on WINDOWS (ee129f7b67e42636f74f565f8352155d)verifyHeading LoginPage new logs
+2021-10-08 14:42:20,351  INFO [main] LogsForPage:37 - Heading matched
+2021-10-08 14:42:20,363  INFO [main] LogsForPage:54 - please do it

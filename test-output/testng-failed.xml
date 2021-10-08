@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="com.jbk.test.DownloadTest">
+        <methods>
+          <include name="setup"/>
+          <include name="validate_vendor"/>
+        </methods>
+      </class> <!-- com.jbk.test.DownloadTest -->
+      <class name="com.jbk.test.LoginTest">
+        <methods>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.jbk.test.LoginTest -->
+      <class name="com.jbk.test.DashboardTest">
+        <methods>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.jbk.test.DashboardTest -->
+      <class name="com.jbk.test.UserPageTest">
+        <methods>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.jbk.test.UserPageTest -->
+      <class name="com.jbk.test.OperatorTest">
+        <methods>
+          <include name="setup"/>
+          <include name="validateTitle"/>
+        </methods>
+      </class> <!-- com.jbk.test.OperatorTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
